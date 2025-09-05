@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "build": "echo \"(optional) build step\"",
+    "test": "jest --ci"
+  }
+}
